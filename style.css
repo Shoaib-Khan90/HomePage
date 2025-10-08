@@ -1,0 +1,21 @@
+*{
+    background-color:bisque  ;
+}
+
+h1{
+    text-align: center;
+    color:brown;
+    size: 20;
+}
+
+p{
+    color: blueviolet;
+}
+
+li{
+    color: chocolate;
+}
+
+a{
+    color:red;
+}
